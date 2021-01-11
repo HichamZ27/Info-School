@@ -1,0 +1,25 @@
+.title {
+  font-family: Times, Times New Roman, Serif;
+  color: #284876;
+}
+
+.card-title {
+  font-family: Times, Times New Roman, serif;
+  color: #284876;
+}
+
+.card-text {
+  font-family: Times, Times New Roman, Serif;
+}
+
+.card {
+  background-color: #fcfcfc;
+}
+
+.bg-dark {
+  color: #04040c;
+}
+
+.h1 {
+  font-family: "Times New Roman", Times, serif;
+}
